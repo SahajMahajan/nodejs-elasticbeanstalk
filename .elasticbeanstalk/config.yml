@@ -3,7 +3,7 @@ branch-defaults:
     environment: Nodejs-NashVentures-dev
     group_suffix: null
 global:
-  application_name: NashVentures-Nodejs-app
+  application_name: Nodejs-NashVentures
   branch: null
   default_ec2_keyname: NashVentures-Jenkins
   default_platform: Node.js
