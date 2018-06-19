@@ -1,11 +1,11 @@
 branch-defaults:
   master:
-    environment: Nodejs-NashVentures-dev
+    environment: My-Dev
     group_suffix: null
 global:
-  application_name: Nodejs-NashVentures
+  application_name: My-Dev
   branch: null
-  default_ec2_keyname: NashVentures-Jenkins
+  default_ec2_keyname: My-Dev
   default_platform: Node.js
   default_region: us-east-1
   include_git_submodules: true
