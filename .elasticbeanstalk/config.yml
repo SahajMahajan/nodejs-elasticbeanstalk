@@ -3,9 +3,13 @@ branch-defaults:
     environment: My-Dev
     group_suffix: null
 global:
+
   application_name: My-Dev
   branch: null
   default_ec2_keyname: My-Dev
+  application_name: My-app
+  branch: null
+  default_ec2_keyname: Jenkins
   default_platform: Node.js
   default_region: us-east-1
   include_git_submodules: true
